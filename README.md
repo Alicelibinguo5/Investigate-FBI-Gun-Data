@@ -32,7 +32,7 @@ FBI Gun and census data are two independent table. Their common variables/value 
  2.Alaska had the highest growth in gun registrations in Jul 2017, increasing by 403.20% compare to Apr 2010.
  Additionally,Alaska,Wyoming,Montana,Kansas,Arkansas are the top 5 state with highest growth in gun registrations in Jul 2017.Alaskas and Wyoming are only two state whose growth more than 400%. also from the gun growth bar chart for all the states, we can see Utah and Indiana are the only two states whose gun growth are descreasing by more than 100%. On the other hand, there are 8 states' gun growth more than 300%, which can be considered outliers.
 
-# 3.From the line chart for gun purchases by years, we can tell that 
+ 3.From the line chart for gun purchases by years, we can tell that 
  from 1998 to 2016, the  overall of gun purchases is increasing. 
  From 1999 to 2005, the number of gun purchases remains stable, and from 2005 to 2016, the number of gun purchases increase from about 10 million to 2.7 million. From 2016 to 2017, the  number of gun purchases goes down, which is partially due to only 9 months in 2017 being calculated. 
 
